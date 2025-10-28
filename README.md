@@ -43,7 +43,7 @@ To demonstrate the impact of the redesign, here are four screenshots showing the
       <strong>Before: The Hunger Games Series Page</strong>
     </td>
     <td width="50%" align="center">
-      <img src="Group14_F27WDCode/pic/after2.png" alt="After Redesign - Book Page" style="max-width:100%;" />
+      <img src="Group14_F27WDCode/pic/after3.png" alt="After Redesign - Book Page" style="max-width:100%;" />
       <br>
       <strong>After: The Hunger Games Series Page</strong>
     </td>
