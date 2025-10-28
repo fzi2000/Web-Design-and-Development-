@@ -1,4 +1,4 @@
-# *Suzanne Collins Book Website Redesign* <br>
+# Suzanne Collins Book Website Redesign <br>
 A project to modernize and improve the user experience (UX) and visual design of the official Suzanne Collins book website. The focus was on improving navigation, readability, and mobile responsiveness, especially for the Hunger Games and Underland Chronicles series pages.
 
 ## Key Redesign Goals
