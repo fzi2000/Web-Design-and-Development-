@@ -13,24 +13,24 @@ To demonstrate the impact of the redesign, here are four screenshots showing the
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="assets/before-homepage.png" alt="Before Redesign - Homepage" style="max-width:100%;" />
+      <img src="Group14_F27WDCode/pic/before.png" alt="Before Redesign - Homepage" style="max-width:100%;" />
       <br>
       <strong>Before: Homepage</strong>
     </td>
     <td width="50%" align="center">
-      <img src="assets/after-homepage.png" alt="After Redesign - Homepage" style="max-width:100%;" />
+      <img src="Group14_F27WDCode/pic/after.png" alt="After Redesign - Homepage" style="max-width:100%;" />
       <br>
       <strong>After: Homepage</strong>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/before-series.png" alt="Before Redesign - Series Page" style="max-width:100%;" />
+      <img src="Group14_F27WDCode/pic/before2_1.png" alt="Before Redesign - Series Page" style="max-width:100%;" />
       <br>
       <strong>Before: The Hunger Games Series Page</strong>
     </td>
     <td width="50%" align="center">
-      <img src="assets/after-series.png" alt="After Redesign - Series Page" style="max-width:100%;" />
+      <img src="Group14_F27WDCode/pic/after1.png" alt="After Redesign - Series Page" style="max-width:100%;" />
       <br>
       <strong>After: The Hunger Games Series Page</strong>
     </td>
